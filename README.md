@@ -47,4 +47,4 @@ Python, pandas, NumPy, pingouin, Matplotlib, Seaborn, Jupyter.
 ## Author
 
 **Said Velásquez**, Computer Engineering student based in Madrid.
-[LinkedIn](https://www.linkedin.com/in/said-vel%C3%A1squez-650905333) · [GitHub](https://github.com/said-velasquez)
+[LinkedIn](https://www.linkedin.com/in/said-velasquez) · [GitHub](https://github.com/said-velasquez)
